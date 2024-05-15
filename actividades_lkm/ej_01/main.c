@@ -26,5 +26,5 @@ module_exit(ej01_module_exit);
 
 // Informacion del modulo (completar lo que corresponda)
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("");
-MODULE_DESCRIPTION("");
+MODULE_AUTHOR("cabrera_martin_ej01");
+MODULE_DESCRIPTION("Al iniciar printea hola, y al salir del modulo printea chau");
